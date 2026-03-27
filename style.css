@@ -109,15 +109,17 @@ body {
 
 .buttons {
     position: absolute;
-    top: 540px;
-    left: 40px;
+    top: 340px;
+    left: 530px;
     z-index: 2;
     display: flex;
     gap: 15px;
 }
 
 button {
-    padding: 10px 18px;
+    width: 200px;
+    height: 50px;
+    /* padding: 20px 28px; */
     border-radius: 6px;
     border: none;
     cursor: pointer;
